@@ -5,12 +5,11 @@ It includes:
 - styled components (server side rendered)
 
 
-How to start:
-
-git clone git@github.com:hannesschaletzky/amazing_boilerplate.git   
--> Rename folder
-cd to folder
-git remote remove origin
-gh repo create 
-yarn
-yarn dev
+<strong>How to start:</strong><br/>
+git clone git@github.com:hannesschaletzky/amazing_boilerplate.git <br/>
+-> Rename folder <br/>
+cd to folder <br/>
+git remote remove origin <br/>
+gh repo create <br/>
+yarn <br/>
+yarn dev <br/>
